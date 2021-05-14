@@ -8,7 +8,7 @@ public class PraticaRefatoracao {
         
         // Integrantes do grupo:Gabriel Asevedo de Amorim RA:42113579 | Gabriel Augusto Ferreira Maia RA:42014524 | Guilherme de Almeida Oliveira RA:42014935 | Guilherme Asevedo de Amorim RA:42015274 
         // Refatorações aplicadas:Mover Método e Extrair Método 
-        //Código refatorado com base no código da Prática 02 Exercício 06 disponível aqui no GitHub.
+        // Código refatorado com base no código da Prática 02 Exercício 06 disponível aqui no GitHub.
         int vezes = 0;
 
         vezes = Integer.parseInt(JOptionPane.showInputDialog("Digite o número de vezes a se repetir o programa \nDigite um número negativo para sair", 0));
