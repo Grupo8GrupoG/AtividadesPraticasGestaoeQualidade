@@ -19,9 +19,9 @@ public class Equacao {
     
     public Equacao(double a,double b,double c,double discriminante){
         this.a=a;
-        this.b=a;
-        this.c=a;
-        this.discriminante=a;
+        this.b=b;
+        this.c=c;
+        this.discriminante=discriminante;
     }
     
     public double getA() {
