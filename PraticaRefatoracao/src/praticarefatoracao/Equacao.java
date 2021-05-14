@@ -53,14 +53,6 @@ public class Equacao {
         this.c = c;
     }
     
-    public void setDiscriminante(double discriminante) {
-        this.discriminante = discriminante;
-    }
-    
-    public double getDiscriminante() {
-        return discriminante;
-    }
-    
     
     public void calculaDiscriminante(double a,double b,double c){
         this.a=a;
